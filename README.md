@@ -1,2 +1,2 @@
-# Git-basic-june--2019
+# Git-basic-june-2019
 github bsic
